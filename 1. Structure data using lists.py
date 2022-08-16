@@ -1,3 +1,5 @@
+# List (Mutable)
+
 nums = [1, 2, 3, 4, 5]
 print("data type : {}".format(type(nums)))
 print("nums list : {}".format(nums))
